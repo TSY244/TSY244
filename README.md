@@ -6,7 +6,8 @@ Please don't criticize my blog. I am a novice in coding.
 <!--START_SECTION:waka-->
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSY244&theme=radical&layout=compact"  />
-![img](https://profile-counter.glitch.me/TSY244/count.svg)
+
+<img align='right' src="https://profile-counter.glitch.me/TSY244/count.svg" width="200">
 
 
 ![TSY244's GitHub stats](https://github-readme-stats.vercel.app/api?username=TSY244&show_icons=true&theme=radical)
