@@ -1,3 +1,10 @@
+### I am August, pleased to meet you
+
+### My blog is:https://tsy244.github.io/
+Please don't criticize my blog. I am a novice in coding.
+
+
+
 ![TSY244's GitHub stats](https://github-readme-stats.vercel.app/api?username=TSY244&show_icons=true&theme=radical)
 
 <!--
