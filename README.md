@@ -4,7 +4,8 @@
 Please don't criticize my blog. I am a novice in coding.
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![TSY244's GitHub stats](https://github-readme-stats.vercel.app/api?username=TSY244&show_icons=true&theme=radical)
 
 <!--
