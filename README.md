@@ -9,6 +9,7 @@ Please don't criticize my blog. I am a novice in coding.
 
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=TSY244)
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=TSY244&)
+![img](https://profile-counter.glitch.me/TSY244/count.svg)
 
 
 ![TSY244's GitHub stats](https://github-readme-stats.vercel.app/api?username=TSY244&show_icons=true&theme=radical)
