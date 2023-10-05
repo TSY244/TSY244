@@ -4,6 +4,11 @@
 Please don't criticize my blog. I am a novice in coding.
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
