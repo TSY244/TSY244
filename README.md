@@ -286,11 +286,11 @@
 <img align="right" width="150"  src="https://raw.githubusercontent.com/TSY244/picture/refs/heads/main/right.png" />
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/TSY244/TSY244/github-metrics/base.svg" />
+
+[//]: # (<img src="https://cdn.jsdelivr.net/gh/TSY244/TSY244/github-metrics/base.svg" />)
 
 [//]: # (<div align="center"> <img src="https://metrics.lecoq.io/TSY244?template=classic&config.timezone=Asia%2FShanghai"> </div>)
 ![Metrics](https://metrics.lecoq.io/TSY244?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
