@@ -2,8 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
 
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C+world!%22);%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub~;%E6%97%A2%E7%84%B6%E9%80%89%E6%8B%A9%E6%B4%BB%E7%9D%80%EF%BC%8C%E5%BF%85%E5%AE%9A%E4%BC%9A%E6%9C%89%E6%89%80%E6%89%BF%E6%8B%85)](https://git.io/typing-svg)
-
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C+world!%22);%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub~;%E6%97%A2%E7%84%B6%E9%80%89%E6%8B%A9%E6%B4%BB%E7%9D%80%EF%BC%8C%E5%BF%85%E5%AE%9A%E4%BC%9A%E6%9C%89%E6%89%80%E6%89%BF%E6%8B%85" alt="Typing SVG" /></a>
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
