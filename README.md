@@ -64,14 +64,14 @@
 
 <p>&emsp;&emsp;嗨，你好，我是au9u5t。一名中国网络安全工作者。</p>
 <p>&emsp;&emsp;Hi, hello, I am au9u5t. A Chinese cybersecurity worker.</p>
-<p>&emsp;&emsp;喜爱网络安全，喜欢编程(Go|C/C++|Python|Java|JavaScript|RUST) 持续学习中～</p>
-<p>&emsp;&emsp;Love network security, like programming (Go|C-C++|Python|Java|JavaScript|RUST) Continuously learning~</p>
+<p>&emsp;&emsp;喜爱网络安全，喜欢编程(Go | C/C++ | Python | Java | JavaScript | RUST | PHP) 持续学习中～</p>
+<p>&emsp;&emsp;Love network security, like programming (Go | C/C++ | Python | Java | JavaScript | RUST | PHP) Continuously learning~</p>
 <p>&emsp;&emsp;我们正在使世界变得更美好。通过构建优雅的层次结构，以最大程度地重复使用和可扩展性。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
-<tr><td>
+[//]: # (<tr><td>)
 
 [//]: # ()
 [//]: # (### 🏢 Work Experience)
