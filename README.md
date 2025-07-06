@@ -291,9 +291,11 @@
 [//]: # (<img src="https://cdn.jsdelivr.net/gh/TSY244/TSY244/github-metrics/base.svg" />)
 
 [//]: # (<div align="center"> <img src="https://metrics.lecoq.io/TSY244?template=classic&config.timezone=Asia%2FShanghai"> </div>)
-![Metrics](https://metrics.lecoq.io/TSY244?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+[//]: # (![Metrics]&#40;https://metrics.lecoq.io/TSY244?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai&#41;)
 
+[//]: # ()
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%" />
 
 <!-- 显示常用的编程语言 -->
 ![TSY244's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=TSY244&show_icons=true&count_private=true&theme=gotham)
