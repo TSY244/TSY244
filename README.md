@@ -67,8 +67,8 @@
 <p>&emsp;&emsp;Hi, hello, I am au9u5t. A Chinese cybersecurity worker.</p>
 <p>&emsp;&emsp;喜爱网络安全，喜欢编程(Go | C/C++ | Python | Java | JavaScript | RUST | PHP) 持续学习中～</p>
 <p>&emsp;&emsp;Love network security, like programming (Go | C/C++ | Python | Java | JavaScript | RUST | PHP) Continuously learning~</p>
-<p>&emsp;&emsp;我们正在使世界变得更美好。通过构建优雅的层次结构，以最大程度地重复使用和可扩展性。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;唯一真正安全的系统是关机的、浇筑在水泥块中并锁进铅制房间的系统——但即使这样，我仍持怀疑态度。</p>
+<p>&emsp;&emsp;<strong>The only secure system is powered off, encased in concrete, and locked in a lead room — and even then, I'm skeptical.</strong></p>
 
 [//]: # (</td></tr>)
 
