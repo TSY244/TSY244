@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="880.1920888849743" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="880.1920888849743" y="0" width="29.75408537307515" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="909.9461742580494" y="0" width="2.2987943789666314" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="912.244968637016" y="0" width="2.291882852960287" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="914.5368514899764" y="0" width="2.1126376332998578" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="916.6494891232762" y="0" width="1.8101040446676244" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="918.4595931679438" y="0" width="0.7883911440530239" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="919.2479843119968" y="0" width="0.7520156880031944" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="880.1917011952434" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="880.1917011952434" y="0" width="29.75447749111782" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="909.9461786863612" y="0" width="2.2987933664388147" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="912.2449720528" y="0" width="2.2918818434767236" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="914.5368538962769" y="0" width="2.1126367027667095" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="916.6494905990436" y="0" width="1.8101032473885315" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="918.4595938464321" y="0" width="0.7883907967979709" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="919.24798464323" y="0" width="0.7520153567700881" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2283,6 +2283,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2596,6 +2601,7 @@
                                 </g>
                                 <g transform="translate(495, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -2604,7 +2610,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2025, 11:57:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2025, 11:37:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
